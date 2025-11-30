@@ -1,0 +1,64 @@
+[Bb]in/
+[Oo]bj/
+*.pdb
+*.suo
+*.user
+*.log
+*.cache
+*.bak
+*.ncb
+*.scc
+*.vspscc
+*.vssscc
+*.pidb
+*.pdb
+*.ilk
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+*.builds
+*.pidb
+*.scc
+
+## Visual Studio IDE files
+.vs/
+*.code-workspace
+*.sln.docstates
+*.vsp
+*.vspx
+*.psess
+*.gpState
+
+## ReSharper and other extensions
+_ReSharper*/
+*.resharper
+*.dotCover
+*.ncrunch*
+*.crunch*.local.xml
+
+## Packages and dependencies
+**/packages/*
+!**/packages/build/ # Keep build/ inside packages if used as an MSBuild target
+
+## Publish/Deployment artifacts
+[Pp]ublish/
+AppPackages/
+ClientBin/
+*.Publish.xml
+*.pfx
+
+## Other common files
+*.DS_Store
+Thumbs.db
+~$*
+*~
+*.dbmdl
