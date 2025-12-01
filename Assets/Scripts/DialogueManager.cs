@@ -204,7 +204,7 @@ public class DialogueManager : MonoBehaviour
         }
         else
         {
-            Debug.LogWarning("⚠️ entranceSequenceController не призначено в DialogueManager!");
+            Debug.LogWarning("entranceSequenceController не призначено в DialogueManager!");
         }
     }
 
